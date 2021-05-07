@@ -1,11 +1,12 @@
 programa {
 
 // Autor .: Diogo
-// Version .: 1.6
+
 
     funcao soma (inteiro a, inteiro b){
         escreva (a + b )
-	escreva( b + a )
+escreva (b + a)
+	
     }
     
     
